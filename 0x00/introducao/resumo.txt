@@ -1,0 +1,12 @@
+1- Microserviços é uma arquitetura de software  que organiza uma aplicação como uma coleção de serviços,
+dividindo assim sua elaboração de forma independente porem que se comunicam por APIs.
+
+2- Arquitetura monolitica basicamente é uma estrutura onde não há escalabilidade ou seja alto acoplamento e dependencias
+de tecnologias.
+
+3- Facilidade e rapidez na atualização e implantação dos serviços.
+   Aumentar a flexibilidade da infraestrutura.
+   Escalabilidade.
+
+4- Comunicação via Http, Mensagem e Eventos.
+
