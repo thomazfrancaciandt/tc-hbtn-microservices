@@ -1,0 +1,17 @@
+1- É uma arquitetura de computação orientada a eventos. Sua principal proposta
+é permitir que as empresas de software criem e mantenham seus aplicativos web sem se preocupar com a infraestrutura
+em que esses aplicativos estão rodando.
+
+2- Função como serviço é uma categoria de serviços de computação em nuvem que fornece uma plataforma que permite aos
+ clientes desenvolver, executar e gerenciar funcionalidades de aplicativos sem a complexidade de construir e manter a
+ infraestrutura normalmente associada ao desenvolvimento e lançamento de um aplicativo.
+
+ 3- Flexibilidade. Não é só na redução de custos que o modelo Serverless se diferencia
+ Integração dos diferentes setores da empresa
+
+ 4- Ele permite que os usuários armazenem e acessem sistemas e ferramentas, pela internet, sem a obrigação de
+ salvar dados em um computador. Normalmente, utiliza um servidor remoto
+
+ 5- Prazo do projeto
+ Custos
+ Escalabilidade
